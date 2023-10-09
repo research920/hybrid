@@ -15,6 +15,9 @@ body {
 	max-width:720px;
 	padding:2.5em;
 	background-color:#fff;
+	background-image:url(i-website-bg.png);
+	background-repeat:repeat-y;
+	background-position:50% 50%	;
 }
 
 p {
@@ -505,8 +508,8 @@ div.pagetop-link {
 }
 
 div.page-footer {
-	-moz-border-radius: 1em; 
-	-webkit-border-radius: 1em;
+	-moz-border-radius: 0.7em; 
+	-webkit-border-radius: 0.7em;
 	font-family:'Lato', Arial, san-serif;
 	/* footer content area wrapper
 	border-top:dotted 1px #9a9999; */
@@ -514,7 +517,7 @@ div.page-footer {
 	margin:6em 0 0 0 !important;
 	padding:16px 4px 24px 4px;
 	background-color:#c13b49;
-	background-image:url(images/MUbg.png);
+	background-image:url(i-MUbg.png);
 	background-repeat:repeat-y;
 	text-align:center;
 }
