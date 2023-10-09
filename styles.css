@@ -505,8 +505,8 @@ div.pagetop-link {
 }
 
 div.page-footer {
-	-moz-border-radius: 2em; 
-	-webkit-border-radius: 2em;
+	-moz-border-radius: 1em; 
+	-webkit-border-radius: 1em;
 	font-family:'Lato', Arial, san-serif;
 	/* footer content area wrapper
 	border-top:dotted 1px #9a9999; */
